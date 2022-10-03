@@ -25,3 +25,4 @@ public class Arithmetic {
         return a/b;
     }
 }
+class error_code:void;
